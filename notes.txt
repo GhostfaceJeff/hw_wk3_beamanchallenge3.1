@@ -1,0 +1,5 @@
+Must be in github repo link:
+
+Using Git Bash (Windows) or Terminal (Mac/Linux), point the command line to “see” only your desktop. 
+
+From there, list the folder + subfolder contents of “scripts_chocolatey” (Windows), “scripts_homebrew” (Mac), or /sbin (Linux), take a screenshot, and upload the findings to your repo.
