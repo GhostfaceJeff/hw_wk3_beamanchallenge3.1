@@ -3,3 +3,15 @@ Must be in github repo link:
 Using Git Bash (Windows) or Terminal (Mac/Linux), point the command line to “see” only your desktop. 
 
 From there, list the folder + subfolder contents of “scripts_chocolatey” (Windows), “scripts_homebrew” (Mac), or /sbin (Linux), take a screenshot, and upload the findings to your repo.
+
+echo "# hw_wk3_beamanchallenge3.1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GhostfaceJeff/hw_wk3_beamanchallenge3.1.git
+git push -u origin main
+
+git remote add origin https://github.com/GhostfaceJeff/hw_wk3_beamanchallenge3.1.git
+git branch -M main
+git push -u origin main
